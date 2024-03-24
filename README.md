@@ -25,3 +25,5 @@ This project have 15 charts. These charts contains analysis and visualization of
 * The Optimal stay length in both types of hotels. 
 
 For visualization i used different types of graph like barplot,piechart,countplot,lineplot,heat map.
+
+# **Also Created Power Bi Dynamic Dashboard.**
