@@ -1,4 +1,4 @@
-# Hotel-Booking-Analysis-Capstone-Project-EDA- 
+# Hotel-Booking-Analysis-EDA-Power BI 
 This project is a Exploratory Data Analysis(EDA) of a booking dataset of two hotels that are City hotel and Resort hotel.
 This dataset contains 119390 Rows and 32 Columns. And 31994 dublicate rows so after removing all duplicate rows the shape of dataset became 87396 rows & 32 columns. The null values are in some columns like country,company,agent and children so i filled null/missing values by 'other' for country column and by 'zero' for remaining ones.
 
